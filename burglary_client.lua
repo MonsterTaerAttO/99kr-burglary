@@ -20,7 +20,7 @@ local peeking                 = false       -- don't touch
 
 ------------------------------------------------------
 ------------------------------------------------------
-local useQalleCameraSystem    = true       --( https://github.com/qalle-fivem/esx-qalle-camerasystem )
+local useQalleCameraSystem    = false       --( https://github.com/qalle-fivem/esx-qalle-camerasystem )
 local chancePoliceNoti        = 60          -- the procent police get notified (only numbers like 30, 10, 40. You get it.)
 local useBlip                 = false      -- if u want blip
 local useInteractSound        = true       -- if you wanna use InteractSound (when u lockpick the door)
